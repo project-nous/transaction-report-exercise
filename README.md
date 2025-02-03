@@ -1,4 +1,4 @@
-# Nous Fullstack coding exercise
+# Nous transaction report exercise
 
 We have provided starting points for the exercise for both Backend and Frontend. Feel free to use these or if you are more familiar with other setups you can use your own.
 
